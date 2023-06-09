@@ -1,3 +1,7 @@
 Hello 2
+<<<<<<< HEAD
 
 Change main
+=======
+Change vetka
+>>>>>>> vetka
